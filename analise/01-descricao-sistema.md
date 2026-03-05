@@ -1,6 +1,6 @@
-📋 Descrição do Sistema – Steam
+# 📋 Descrição do Sistema – Steam
 
-# Funcionalidades Principais
+## Funcionalidades Principais
 
 A plataforma Steam é um sistema digital desenvolvido pela Valve Corporation que permite a distribuição e gerenciamento de jogos eletrônicos pela internet. Entre suas principais funcionalidades estão a compra e download de jogos digitais, atualização automática de softwares, armazenamento de jogos na biblioteca do usuário e integração com recursos sociais.
 
@@ -8,7 +8,7 @@ Além disso, a plataforma oferece funcionalidades como lista de amigos, chat ent
 
 Essas funcionalidades tornam a plataforma um dos principais ambientes digitais para distribuição de jogos no mundo.
 
-# Tipos de Usuários
+## Tipos de Usuários
 
 O sistema da Steam possui diferentes tipos de usuários que interagem com a plataforma de maneiras distintas.
 
@@ -19,7 +19,7 @@ Outro tipo de usuário são os desenvolvedores de jogos, que utilizam a platafor
 Também existem os administradores da plataforma, que são responsáveis pela manutenção do sistema, controle de conteúdo, suporte técnico e gerenciamento da infraestrutura que mantém o funcionamento da plataforma.
 
 
-# Contexto de Uso
+## Contexto de Uso
 
 A Steam é utilizada principalmente em computadores pessoais (PC), sendo acessada por meio de um aplicativo próprio ou através do navegador. A plataforma permite que usuários comprem e joguem jogos digitais de maneira prática, sem a necessidade de mídias físicas.
 
